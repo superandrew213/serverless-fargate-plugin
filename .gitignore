@@ -1,7 +1,5 @@
 bin/
+src/
 node_modules/
 .idea/
 .serverless/
-resources/
-*.js
-*.js.map
